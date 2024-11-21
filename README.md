@@ -1,5 +1,6 @@
-## Hi there 👋
+# About Me
 
+Hi my name is Talha Aydın and I`m a computer engineering student. For now this is it.
 <!--
 **Talha-2112/Talha-2112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
